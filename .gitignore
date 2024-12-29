@@ -1,2 +1,5 @@
 .env/**
 
+.idea/*
+1.tranformerModels/test_trainer/**
+1.tranformerModels/test-trainer/**

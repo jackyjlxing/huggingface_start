@@ -3,3 +3,5 @@
 .idea/*
 1.tranformerModels/test_trainer/**
 1.tranformerModels/test-trainer/**
+part2/drugsCom_raw.zip
+part2/data/**
